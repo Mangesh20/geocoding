@@ -1,0 +1,311 @@
+Tgeocoding
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/Info.plist" geocoding/geocoding-Info.plist
+cProcessPCH "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-hfhpvomxiggoybaucfqiwdsllyuo/geocoding-Prefix.pch.pth" geocoding/geocoding-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/main.o "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/AppDelegate.o "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/ViewController.o "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/Annotation.o "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/Annotation.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/geocoding" normal i386
+cGenerateDSYMFile "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app.dSYM" "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/geocoding"
+cCopyStringsFile "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/en.lproj/InfoPlist.strings" geocoding/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/en.lproj/ViewController.xib"
+cTouch "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app"
+
+N/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F68C5090000000000244490
+t1332266249
+s2376848
+
+N/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004F68C5090000000000089510
+t1332266249
+s562448
+
+N/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F68C5130000000000353830
+t1332266259
+s3487792
+
+N/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004F68C51B00000000000D9D60
+t1332266267
+s892256
+
+N/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F68C52C0000000000905E40
+t1332266284
+s9461312
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-fbwwfkaedogxbfcufplplmaficiz/geocoding-Prefix.pch.pth
+t2
+s0
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-hfhpvomxiggoybaucfqiwdsllyuo/geocoding-Prefix.pch.pth
+t1340174451
+s4077152
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/Annotation.o
+t1340174455
+s11452
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/AppDelegate.o
+t1340185801
+s63140
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/ViewController.o
+t1340186154
+s88444
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/geocoding.LinkFileList
+c000000004FE1705B00000000000002B7
+t1340174427
+s695
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/main.o
+t1340174454
+s3360
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app
+t1340186156
+s204
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app.dSYM
+t1340186155
+s102
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/Info.plist
+t1340174448
+s798
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/PkgInfo
+t1340174448
+s8
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/en.lproj/InfoPlist.strings
+t1340174456
+s42
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/en.lproj/ViewController.nib
+t1340174457
+s3704
+
+N/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/geocoding
+t1340186155
+s54696
+
+N/Users/netadmin/Desktop/R & D work/geocoding/geocoding/Annotation.h
+c000000004FE04A200000000000000192
+t1340099104
+s402
+
+N/Users/netadmin/Desktop/R & D work/geocoding/geocoding/Annotation.m
+c000000004FE04A200000000000000108
+t1340099104
+s264
+
+N/Users/netadmin/Desktop/R & D work/geocoding/geocoding/AppDelegate.h
+c000000004FE16BDD0000000000000174
+t1340173277
+s372
+
+N/Users/netadmin/Desktop/R & D work/geocoding/geocoding/AppDelegate.m
+c000000004FE01A160000000000000954
+t1340086806
+s2388
+
+N/Users/netadmin/Desktop/R & D work/geocoding/geocoding/ViewController.h
+c000000004FE19CC700000000000004BC
+t1340185799
+s1212
+
+N/Users/netadmin/Desktop/R & D work/geocoding/geocoding/ViewController.m
+c000000004FE1A30400000000000015BA
+t1340187396
+s5562
+
+N/Users/netadmin/Desktop/R & D work/geocoding/geocoding/en.lproj/InfoPlist.strings
+c000000004FE16AE8000000000000002D
+t1340173032
+s45
+
+N/Users/netadmin/Desktop/R & D work/geocoding/geocoding/en.lproj/ViewController.xib
+c000000004FE0498D0000000000006AF0
+t1340098957
+s27376
+
+N/Users/netadmin/Desktop/R & D work/geocoding/geocoding/geocoding-Prefix.pch
+c000000004FE01A160000000000000143
+t1340086806
+s323
+
+N/Users/netadmin/Desktop/R & D work/geocoding/geocoding/main.m
+c000000004FE16AE80000000000000157
+t1340173032
+s343
+
+Ngeocoding/geocoding-Info.plist
+c000000004FE16AE8000000000000048E
+t1340173032
+s1166
+
+CBuild AST from "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/Annotation.m"
+r0
+
+CBuild AST from "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/ViewController.m"
+r0
+
+CBuild AST from "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciescb4b0e85da91b541^21e72985da91b541^---0#1#0#--18"Check dependencies36"CD4E21E6-3B6D-4481-91FB-E34C4671D04A-
+
+CCompileC DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/Annotation.o "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/Annotation.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361867254.994934
+e361867255.115671
+r1
+xCompileC
+xDerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/Annotation.o
+x/Users/netadmin/Desktop/R & D work/geocoding/geocoding/Annotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/netadmin/Desktop/R & D work/geocoding/geocoding/Annotation.mb2d8fef6a791b541^6b9c1df7a791b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/netadmin/Desktop/R%20&%20D%20work/geocoding/geocoding/Annotation.m0000000000000000^3917"CompileC DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/Annotation.o geocoding/Annotation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/netadmin/Desktop/R & D work/geocoding"    setenv LANG en_US.US-ASCII    setenv PATH "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk" -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-generated-files.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-own-target-headers.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-all-target-headers.hmap" -iquote "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-project-headers.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/include" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/DerivedSources/i386" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/DerivedSources" "-F/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator" -include "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-hfhpvomxiggoybaucfqiwdsllyuo/geocoding-Prefix.pch" -MMD -MT dependencies -MF "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/Annotation.d" --serialize-diagnostics "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/Annotation.dia" -c "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/Annotation.m" -o "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/Annotation.o"36"F97024B2-9244-4A9D-9C12-869CE9C80BD3-
+
+CCompileC DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/AppDelegate.o "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361878599.653702
+e361878601.969647
+r1
+xCompileC
+xDerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/AppDelegate.o
+x/Users/netadmin/Desktop/R & D work/geocoding/geocoding/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/netadmin/Desktop/R & D work/geocoding/geocoding/AppDelegate.m44a2ac47d491b541^014df849d491b541^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/netadmin/Desktop/R%20&%20D%20work/geocoding/geocoding/AppDelegate.m0000000000000000^3923"CompileC DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/AppDelegate.o geocoding/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/netadmin/Desktop/R & D work/geocoding"    setenv LANG en_US.US-ASCII    setenv PATH "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk" -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-generated-files.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-own-target-headers.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-all-target-headers.hmap" -iquote "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-project-headers.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/include" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/DerivedSources/i386" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/DerivedSources" "-F/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator" -include "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-hfhpvomxiggoybaucfqiwdsllyuo/geocoding-Prefix.pch" -MMD -MT dependencies -MF "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/AppDelegate.m" -o "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/AppDelegate.o"36"CAA21174-6D97-4246-A8CC-BA672D57C410-
+
+CCompileC DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/ViewController.o "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361880197.211208
+e361880198.814332
+r1
+xCompileC
+xDerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/ViewController.o
+x/Users/netadmin/Desktop/R & D work/geocoding/geocoding/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/netadmin/Desktop/R & D work/geocoding/geocoding/ViewController.m1e8a3a85da91b541^ba83d086da91b541^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/netadmin/Desktop/R%20&%20D%20work/geocoding/geocoding/ViewController.m0000000000000000^3941"CompileC DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/ViewController.o geocoding/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/netadmin/Desktop/R & D work/geocoding"    setenv LANG en_US.US-ASCII    setenv PATH "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk" -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-generated-files.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-own-target-headers.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-all-target-headers.hmap" -iquote "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-project-headers.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/include" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/DerivedSources/i386" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/DerivedSources" "-F/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator" -include "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-hfhpvomxiggoybaucfqiwdsllyuo/geocoding-Prefix.pch" -MMD -MT dependencies -MF "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/ViewController.dia" -c "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/ViewController.m" -o "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/ViewController.o"36"857AD09D-99B5-4B01-BDC2-7E73D6A6FD7B-
+
+CCompileC DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/main.o "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361867253.325188
+e361867254.226754
+r1
+xCompileC
+xDerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/main.o
+x/Users/netadmin/Desktop/R & D work/geocoding/geocoding/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/netadmin/Desktop/R & D work/geocoding/geocoding/main.m096f53f5a791b541^c40b3af6a791b541^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/netadmin/Desktop/R%20&%20D%20work/geocoding/geocoding/main.m0000000000000000^3881"CompileC DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/main.o geocoding/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/netadmin/Desktop/R & D work/geocoding"    setenv LANG en_US.US-ASCII    setenv PATH "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk" -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-generated-files.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-own-target-headers.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-all-target-headers.hmap" -iquote "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-project-headers.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/include" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/DerivedSources/i386" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/DerivedSources" "-F/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator" -include "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-hfhpvomxiggoybaucfqiwdsllyuo/geocoding-Prefix.pch" -MMD -MT dependencies -MF "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/main.dia" -c "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/main.m" -o "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/main.o"36"4410801F-A936-4960-B068-75697452C584-
+
+CCompileXIB "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/en.lproj/ViewController.xib"
+s361867256.165951
+e361867257.027232
+r1
+xCompileXIB
+x/Users/netadmin/Desktop/R & D work/geocoding/geocoding/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compiling /Users/netadmin/Desktop/R & D work/geocoding/geocoding/en.lproj/ViewController.xib4f922af8a791b541^780807f9a791b541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/netadmin/Desktop/R%20&%20D%20work/geocoding/geocoding/en.lproj/ViewController.xib0000000000000000^1046"CompileXIB geocoding/en.lproj/ViewController.xib    cd "/Users/netadmin/Desktop/R & D work/geocoding"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin/.."    "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/en.lproj/ViewController.nib" "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/en.lproj/ViewController.xib" --sdk "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk"36"5BC67BEC-FD56-45F1-9859-3E7E6BB81AC8-
+
+CCopyStringsFile "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/en.lproj/InfoPlist.strings" geocoding/en.lproj/InfoPlist.strings
+s361867256.161081
+e361867256.164526
+r1
+xCopyStringsFile
+x/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/en.lproj/InfoPlist.strings
+xgeocoding/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy geocoding/en.lproj/InfoPlist.strings335429f8a791b541^2e1e2af8a791b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/netadmin/Desktop/R%20&%20D%20work/geocoding/geocoding/en.lproj/InfoPlist.strings0000000000000000^705"CopyStringsFile DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/en.lproj/InfoPlist.strings geocoding/en.lproj/InfoPlist.strings    cd "/Users/netadmin/Desktop/R & D work/geocoding"    setenv PATH "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/en.lproj" -- geocoding/en.lproj/InfoPlist.strings36"76AB917C-606B-4B98-A439-220DCED88A5D-
+
+CGenerateDSYMFile "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app.dSYM" "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/geocoding"
+s361880199.888517
+e361880200.043952
+r1
+xGenerateDSYMFile
+x/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app.dSYM
+x/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/geocoding
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Generating /Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app.dSYMaf96e387da91b541^a0500b88da91b541^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/netadmin/Desktop/R%20&%20D%20work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app.dSYM/0000000000000000^862"GenerateDSYMFile DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app.dSYM DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/geocoding    cd "/Users/netadmin/Desktop/R & D work/geocoding"    setenv PATH "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil" "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/geocoding" -o "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app.dSYM"36"749ED059-2177-4B10-B539-826BDF1B32FD-
+
+CLd "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/geocoding" normal i386
+s361880198.821927
+e361880199.881836
+r1
+xLd
+x/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/geocoding
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/geocodingc18bd286da91b541^44c0e187da91b541^---0#0#0#--1509"Ld DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/geocoding normal i386    cd "/Users/netadmin/Desktop/R & D work/geocoding"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -arch i386 -isysroot "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk" "-L/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator" "-F/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator" -filelist "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/Objects-normal/i386/geocoding.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -framework MapKit -framework CoreLocation -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/geocoding"36"0792EC30-0183-41E7-B55D-E94F59482AA2-
+
+CProcessInfoPlistFile "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/Info.plist" geocoding/geocoding-Info.plist
+s361867248.364150
+e361867248.464096
+r1
+xProcessInfoPlistFile
+x/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/Info.plist
+xgeocoding/geocoding-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process geocoding/geocoding-Info.plist4f5d5df0a791b541^0adc76f0a791b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/netadmin/Desktop/R%20&%20D%20work/geocoding/geocoding/geocoding-Info.plist0000000000000000^825"ProcessInfoPlistFile DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/Info.plist geocoding/geocoding-Info.plist    cd "/Users/netadmin/Desktop/R & D work/geocoding"    setenv PATH "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility geocoding/geocoding-Info.plist -genpkginfo "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app/Info.plist"36"A6EAED58-705D-4516-BE5B-137697CAE8B7-
+
+CProcessPCH "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-fbwwfkaedogxbfcufplplmaficiz/geocoding-Prefix.pch.pth" geocoding/geocoding-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361867227.324905
+e361867244.376808
+r1
+xProcessPCH
+x/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-fbwwfkaedogxbfcufplplmaficiz/geocoding-Prefix.pch.pth
+xgeocoding/geocoding-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile geocoding/geocoding-Prefix.pch496853dba791b541^4f7560eca791b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/netadmin/Desktop/R%20&%20D%20work/geocoding/geocoding/geocoding-Prefix.pch0000000000000000^3766"ProcessPCH DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-fbwwfkaedogxbfcufplplmaficiz/geocoding-Prefix.pch.pth geocoding/geocoding-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/netadmin/Desktop/R & D work/geocoding"    setenv LANG en_US.US-ASCII    setenv PATH "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk" -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-generated-files.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-own-target-headers.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-all-target-headers.hmap" -iquote "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-project-headers.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/include" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/DerivedSources/i386" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/DerivedSources" "-F/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-fbwwfkaedogxbfcufplplmaficiz/geocoding-Prefix.pch.dia" -c "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/geocoding-Prefix.pch" -o "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-fbwwfkaedogxbfcufplplmaficiz/geocoding-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-fbwwfkaedogxbfcufplplmaficiz/geocoding-Prefix.pch.d"36"6AED1D65-69C7-4A77-94A8-11908A245604-
+
+CProcessPCH "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-hfhpvomxiggoybaucfqiwdsllyuo/geocoding-Prefix.pch.pth" geocoding/geocoding-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361867248.472456
+e361867253.318159
+r1
+xProcessPCH
+x/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-hfhpvomxiggoybaucfqiwdsllyuo/geocoding-Prefix.pch.pth
+xgeocoding/geocoding-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile geocoding/geocoding-Prefix.pch651a79f0a791b541^959a51f5a791b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/netadmin/Desktop/R%20&%20D%20work/geocoding/geocoding/geocoding-Prefix.pch0000000000000000^3766"ProcessPCH DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-hfhpvomxiggoybaucfqiwdsllyuo/geocoding-Prefix.pch.pth geocoding/geocoding-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/netadmin/Desktop/R & D work/geocoding"    setenv LANG en_US.US-ASCII    setenv PATH "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk" -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-generated-files.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-own-target-headers.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-all-target-headers.hmap" -iquote "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/geocoding-project-headers.hmap" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/include" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/DerivedSources/i386" "-I/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/geocoding.build/Debug-iphonesimulator/geocoding.build/DerivedSources" "-F/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-hfhpvomxiggoybaucfqiwdsllyuo/geocoding-Prefix.pch.dia" -c "/Users/netadmin/Desktop/R & D work/geocoding/geocoding/geocoding-Prefix.pch" -o "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-hfhpvomxiggoybaucfqiwdsllyuo/geocoding-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Intermediates/PrecompiledHeaders/geocoding-Prefix-hfhpvomxiggoybaucfqiwdsllyuo/geocoding-Prefix.pch.d"36"3AAD7CB6-8D17-423A-BD7E-D4B0F04DF577-
+
+CProcessPCH "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Index/PrecompiledHeaders/geocoding-Prefix-cbbtizgvtyzbanaddqeirkpsbmne_ast/geocoding-Prefix.pch.pth" geocoding/geocoding-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Index/PrecompiledHeaders/geocoding-Prefix-gcnfupcofmiofjbeatdtwupwlqqk_ast/geocoding-Prefix.pch.pth" geocoding/geocoding-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app"
+s361880200.061865
+e361880200.126470
+r1
+xTouch
+x/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Touch /Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.appabec0f88da91b541^ff772088da91b541^---0#0#0#--514"Touch DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app    cd "/Users/netadmin/Desktop/R & D work/geocoding"    setenv PATH "/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/netadmin/Desktop/My Work Imp/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/netadmin/Desktop/R & D work/geocoding/DerivedData/geocoding/Build/Products/Debug-iphonesimulator/geocoding.app"36"7C2276FB-F1FA-4B55-A9E5-FB4B9E4ABDCD-
+

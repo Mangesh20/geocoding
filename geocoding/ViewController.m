@@ -3,12 +3,14 @@
 //  GLGeocoder
 //
 //  Created by Net Admin on 19/06/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
-//
+//  Copyright (c) 2012 . All rights reserved.
+//  Author: Mangesh T. (mangesh20@gmail.com)
 
 #import "ViewController.h"
 #import "Annotation.h"
 @interface ViewController ()
+
+//method to display the annotation on map view for the location returned by geocoding
 - (void)displayAnnotationWitPlacemarksArray;
 @end
 
@@ -47,17 +49,38 @@
 }
 
 - (IBAction)getAddress:(id)sender {
-    
+
+    //Init your coordinated with CLLocation object
     CLLocation *location = [[CLLocation alloc] initWithLatitude:[ibTextFieldForLat.text floatValue] longitude:[ibTextFieldForLong.text floatValue]];
     
-    
+    //instance menthod of CLGeocoder for reverse geocoding
     [geocoder reverseGeocodeLocation:location completionHandler:^(NSArray *placemarks, NSError *error) {
+        //copy instance variable with placemarks array
         self.placemarksArray = placemarks;
-     
         
+        //enumurate the objects from the array and create the address to show in textview
+        //the placemarks is an array and it returns the objects of the class CLPlacemark.
+        //most of the time the array returns only single address but at some situation it may 
+        //return multiple addresses
         [self.placemarksArray enumerateObjectsUsingBlock:^(id obj, NSUInteger idx, BOOL *stop) {
             CLPlacemark *placeInfo = obj;
-            ibTextViewForAddress.text = [NSString stringWithFormat:@"%@, %@, %@, %@, %@",placeInfo.name,placeInfo.subLocality, placeInfo.locality,placeInfo.country, placeInfo.postalCode];
+            
+            NSString *address = [NSString stringWithFormat:@"%@",placeInfo.name];
+            
+            if ([placeInfo.subLocality length]>0) {
+                address = [address stringByAppendingFormat:@",%@",placeInfo.subLocality];
+            }
+            if ([placeInfo.locality length]>0) {
+                address = [address stringByAppendingFormat:@",%@",placeInfo.locality];
+            }
+            if ([placeInfo.country length]>0) {
+                address = [address stringByAppendingFormat:@",%@",placeInfo.country];
+            }
+            if ([placeInfo.postalCode length]>0) {
+                address = [address stringByAppendingFormat:@",%@",placeInfo.postalCode];
+            }
+            
+            ibTextViewForAddress.text = [NSString stringWithString:address];
         }];
 
         [self displayAnnotationWitPlacemarksArray];
@@ -123,17 +146,16 @@
 }
 
 #pragma mark - MKMapViewDelegate
-- (MKAnnotationView *)mapView:(MKMapView *)mapView viewForAnnotation:(id <MKAnnotation>)annotation
+- (MKAnnotationView *)mapView:(MKMapView *)mapView viewForAnnotation:(Annotation *)annotation
 {
     static NSString *identifier = @"identifier";
-    MKPinAnnotationView *pinAnnotation;
     
     
-    if (pinAnnotation == nil) {
-        pinAnnotation = [[MKPinAnnotationView alloc]initWithAnnotation:annotation reuseIdentifier:identifier];
-    }
-    [pinAnnotation setDraggable:YES];
+    MKPinAnnotationView *pinAnnotation = [[MKPinAnnotationView alloc]initWithAnnotation:annotation reuseIdentifier:identifier];
+    
     pinAnnotation.canShowCallout = YES;
+    
+    
     return pinAnnotation;
 }
 

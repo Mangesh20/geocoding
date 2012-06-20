@@ -1,10 +1,12 @@
-//
-//  ViewController.h
-//  GLGeocoder
+//  geocoding
+//  Class Name: ViewController.h
+//  Abstract: In this class we have imported the CoreLocation and MapKit framework. Created the object of class CLGeocoder for geocoding.  
 //
 //  Created by Net Admin on 19/06/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
-//
+//  Copyright (c) 2012 . All rights reserved.
+//  Author: Mangesh T. (mangesh20@gmail.com)
+//  
+
 
 #import <UIKit/UIKit.h>
 #import <CoreLocation/CoreLocation.h>
@@ -16,7 +18,6 @@
     NSArray *placemarksArray;
 
 }
-- (IBAction)resignKeyboard:(id)sender;
 @property (strong, nonatomic) IBOutlet UITextField *ibTextFieldForLat;
 @property (strong, nonatomic) IBOutlet UITextField *ibTextFieldForLong;
 @property (strong, nonatomic) IBOutlet UIButton *ibButtonForGetAddress;
@@ -27,5 +28,6 @@
 
 - (IBAction)getAddress:(id)sender;
 - (IBAction)getLatLong:(id)sender;
+- (IBAction)resignKeyboard:(id)sender;
 
 @end
